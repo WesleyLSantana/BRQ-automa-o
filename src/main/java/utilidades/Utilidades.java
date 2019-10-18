@@ -20,7 +20,7 @@ import servicos.Driver;
  */
 public class Utilidades extends Driver {
 
-	WebDriverWait wait = new WebDriverWait(Driver.getInstance(), 15);
+	
 
 	static java.util.Random randomico = new java.util.Random();
 	static String caracteres = "abcdefghijklmnopqrstuvwxyz";

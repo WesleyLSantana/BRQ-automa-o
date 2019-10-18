@@ -1,0 +1,29 @@
+Executando (\\RSI0532\ROOT\CIMV2:Win32_Process.Handle="28836")->terminate()
+O m‚todo foi executado com ˆxito.
+Parƒmetros de sa¡da:
+instance of __PARAMETERS
+{
+	ReturnValue = 0;
+};
+Executando (\\RSI0532\ROOT\CIMV2:Win32_Process.Handle="28856")->terminate()
+O m‚todo foi executado com ˆxito.
+Parƒmetros de sa¡da:
+instance of __PARAMETERS
+{
+	ReturnValue = 0;
+};
+Executando (\\RSI0532\ROOT\CIMV2:Win32_Process.Handle="28896")->terminate()
+O m‚todo foi executado com ˆxito.
+Parƒmetros de sa¡da:
+instance of __PARAMETERS
+{
+	ReturnValue = 0;
+};
+Executando (\\RSI0532\ROOT\CIMV2:Win32_Process.Handle="29008")->terminate()
+O m‚todo foi executado com ˆxito.
+Parƒmetros de sa¡da:
+instance of __PARAMETERS
+{
+	ReturnValue = 2;
+};
+Executando (\\RSI0532\ROOT\CIMV2:Win32_Process.Handle="29024")->terminate()
